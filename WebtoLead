@@ -1,3 +1,5 @@
+<script type="text/javascript">
+
 <!--  ----------------------------------------------------------------------  -->
 <!--  NOTE: Please add the following <META> element to your page <HEAD>.      -->
 <!--  If necessary, please modify the charset parameter to specify the        -->
@@ -64,3 +66,5 @@ Units of Measure:<select  id="00N53000000G0wC" name="00N53000000G0wC" title="Uni
 <input type="submit" name="submit">
 
 </form>
+
+</script>
